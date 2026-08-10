@@ -9,7 +9,7 @@ together. Built against the take-home spec in
 **Live app:** https://headless-media-sdk.netlify.app/
 **SDK docs:** https://gilded-longma-f9430d.netlify.app/
 **Component docs:** https://velvety-toffee-307b82.netlify.app/
-**AI chat links used while building:** _add links here — see "AI-assisted vs hand-written" below_
+**AI chat links used while building:** https://claude.ai/share/c3e809cb-1f44-4403-9005-287b0ff66c97
 
 ## Architecture
 
