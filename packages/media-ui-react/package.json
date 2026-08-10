@@ -1,0 +1,21 @@
+{
+  "name": "media-ui-react",
+  "version": "0.1.0",
+  "description": "Headless, pure-UI React component library (Grid, Lightbox, ReelSwiper). No imports from media-core or media-react — takes data/callbacks purely as props.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.4"
+  }
+}
